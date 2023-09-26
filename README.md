@@ -5,4 +5,4 @@ This repository contains all Machine Learning & NLP tasks during my Codsoft inte
 ![Intership offer letter](https://github.com/GhufranBarcha/Codsoft-Machine-Learning-Internship/blob/main/Codsoft%20intership%20offer%20Letter_page-0001.jpg)
 
 ## Internship Completion Certificate from Codsoft!!
-![Intership Completion Certificate](https://github.com/GhufranBarcha/Codsoft-Machine-Learning-Internship/blob/main/Codsoft%20internship%20Completion%20Letter_page-0001.jpg)
+![Intership Completion Certificate](https://github.com/GhufranBarcha/Codsoft-Machine-Learning-Internship/blob/main/Codsoft%20internship%20Completion%20Certificate_page-0001.jpg)
